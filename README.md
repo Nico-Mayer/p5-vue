@@ -92,7 +92,7 @@ Now add `p5vue` to your project:
 Typescript inst fully supported yet.
 To get the Plugin working without type errors do this:
 
-- ```javascript
+- ```typescript
   // main.ts
   import { createApp } from "vue"
   import App from "./App.vue"
@@ -102,7 +102,7 @@ To get the Plugin working without type errors do this:
   createApp(App).use(p5vue).mount("#app")
   ```
 
-- ```javascript
+- ```vue
   // Add the p5 type in function argument
   <script setup>
   import p5 from "p5"
