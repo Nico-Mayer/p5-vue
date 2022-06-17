@@ -110,7 +110,7 @@ To get the Plugin working without type errors do this:
   const sketch = (p5: p5) => {
     p5.setup = () => {
       p5.createCanvas(500, 500)
-  	}
+    }
 
     p5.draw = () => {
       p5.background("#fff000")
