@@ -32,7 +32,7 @@ Compatible with Vue3 & Nuxt Js.
 
 ### Install:
 
-```ps
+```fish
 npm i p5vue
 ```
 
@@ -41,7 +41,7 @@ Depending on your environment, you may be alerted upon installing <code>p5vue</c
 If this is the case:
 </p>
 
-```ps
+```fish
 npm i -D p5
 ```
 
@@ -61,7 +61,7 @@ Now add `p5vue` to your project:
 
 - Use the <code>P5</code> component inside the app
 
-  ```javascript
+  ```vue
   <script setup>
   import p5 from "p5"
 
