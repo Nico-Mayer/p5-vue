@@ -1,7 +1,7 @@
 <br>
 
 <div align="center">
-<img src="https://github.com/Nico-Mayer/p5vue/blob/main/public/logo.svg" alt="logo" width="80" />
+<img src="https://github.com/Nico-Mayer/p5vue/blob/main/public/logo.svg" alt="logo" width="200" />
 </div>
 
 <h1 align="center">p5vue</h1>
