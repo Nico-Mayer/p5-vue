@@ -1,4 +1,4 @@
-<script setup>
+<script setup lang="ts">
 import { ref, onMounted, defineProps } from "vue"
 import p5 from "p5"
 const canvas = ref()
