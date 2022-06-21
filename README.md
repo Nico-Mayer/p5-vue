@@ -21,7 +21,7 @@ Compatible with Vue3 & Nuxt Js.
 <br/>
 
 <p align="center">
-	<del><a href="#" target="_blank">📘 Docs + Examples</a></del> (comming soon)
+	<a href="https://p5vue-homepage.vercel.app/" target="_blank">📘 Docs + Examples</a>
 </p>
 
 <p align="center">
