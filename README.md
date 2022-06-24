@@ -12,12 +12,12 @@
 </a>
 </p>
 <p>
-	This npm package provides a  Vue3 <code>P5</code> componente which accepts a <code>sketch</code/> property, making it extremely easy to get one or more <a href="https://p5js.org/">p5</a> sketches running in Vue without scoping issues.
+	This npm package provides a  Vue 3 <code>P5</code> componente which accepts a <code>sketch</code/> property, making it extremely easy to get one or more <a href="https://p5js.org/">p5</a> sketches running in Vue without scoping issues.
 </p>
 <br/>
-<p>
-Compatible with Vue3 & Nuxt Js.
-</p>
+
+Compatible with **_Vue 3_** & **_Nuxt Js_**.
+
 <br/>
 
 <p align="center">
