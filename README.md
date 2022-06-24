@@ -24,10 +24,6 @@ Compatible with Vue3 & Nuxt Js.
 	<del><a href="#" target="_blank">📘 Docs + Examples</a></del> (comming soon)
 </p>
 
-<p align="center">
-	<del><a href="#" target="_blank">🌱 Simple Demo</a></del> (comming soon)
-</p>
-
 ## Usage
 
 ### Install:
@@ -77,7 +73,7 @@ Now add `p5vue` to your project:
   </script>
 
   <template>
-  	<P5 :sketch="sketch"/>
+    <P5 :sketch="sketch" />
   </template>
   ```
 
@@ -119,6 +115,6 @@ To get the Plugin working without type errors do this:
   </script>
 
   <template>
-  	<P5 :sketch="sketch"/>
+    <P5 :sketch="sketch" />
   </template>
   ```
