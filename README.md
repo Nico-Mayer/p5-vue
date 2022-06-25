@@ -77,12 +77,6 @@ Now add `p5vue` to your project:
   </template>
   ```
 
-### Output:
-
-<div align="center">
-	cooming soon
-</div>
-
 ## Nuxt 3 Setup
 
 <details>
