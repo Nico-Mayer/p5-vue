@@ -1,3 +1,7 @@
+> 🔍 Seeking New Maintainer 🔍
+>
+> This repository is currently not under active development and is searching for a new maintainer to take over and drive its future growth. If you're interested in becoming the new steward of this project, please get in touch. Your contribution can help keep this project alive and valuable for the community.
+
 <br>
 
 <div align="center">
